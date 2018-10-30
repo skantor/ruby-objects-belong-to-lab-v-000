@@ -1,6 +1,6 @@
 class Post
   
-  :name 
+  :title
   
   def initialize 
   end 
